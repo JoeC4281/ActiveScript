@@ -36,6 +36,7 @@ R:\>vb CreateObject("Shell.Application").ToggleDesktop
 R:\>vb DateDiff("d", "03/11/1957", Now) / 365.25
 65.8069815195072
 ```
+Here are some more [VB OneLiners][1]
 
 The VB command takes what you enter on the command line,
 and wraps it into the following script;
@@ -112,4 +113,4 @@ AScript allows one to use Windows Scripting Components;
 Set oMath = GetObject("script:e:\utils\math.wsc")
 ```
 
-
+  [1]: VBOneLiners.md
