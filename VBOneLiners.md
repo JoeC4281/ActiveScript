@@ -66,5 +66,4 @@ vb FormatCurrency(1000)
 $1,000.00
 ```
 
-
 <br>
